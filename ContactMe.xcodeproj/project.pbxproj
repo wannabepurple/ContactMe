@@ -331,6 +331,7 @@
 				DEVELOPMENT_TEAM = FP582B2GU2;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ContactMe/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Contact Me";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -360,6 +361,7 @@
 				DEVELOPMENT_TEAM = FP582B2GU2;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ContactMe/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Contact Me";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
